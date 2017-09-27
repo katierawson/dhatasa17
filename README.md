@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Want to get started on a digital American studies project?
 
-You can use the [editor on GitHub](https://github.com/katierawson/dhatasa17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We may be able to help!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At this year’s American Studies Association annual meeting in Chicago, the [Digital Humanities Caucus](http://www.theasa.net/caucus_digital_humanities/) would like to help you get started on a digital project by offering
+ 
+-	two-hour consultations with experienced digital humanities practitioners. 
+- - We’ll hold these consultations from 5 to 7 p.m. on Thursday, November 17, in the Denver Convention Center, Level 3, Mineral Hall D.
+- -	We can think your idea through with you, suggest useful tools and resources, and give you some suggestions about where you might go next.
+-	an idea clinic with drop-in and group conversations about digital projects, whether you are ready to start, hitting a snag, looking for a sounding board, or just curious
+-	tiny demonstrations of digital tools and practices that your colleagues could use in their teaching and research
 
-### Markdown
+What is a digital project? Our definition is broad, and we’ll do our best to help you accomplish whatever you’re imagining. Some popular types of projects include maps, data visualizations, text analysis projects, and experiments in scholarly publishing and pedagogy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We think American studies scholars have the potential to undertake transformative digital scholarship, and we’re offering these consultations in the hopes of fostering some of this work.
 
-```markdown
-Syntax highlighted code block
+To request a consultation, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdiKZZsZWFuv1SKIOiU9DyoetEFMqnRNgwcFeRCUGCXKaHcVQ/viewform) by Sunday, November 1.
 
-# Header 1
-## Header 2
-### Header 3
+If you would like to be a consultant on digital projects, [register here](https://docs.google.com/forms/d/e/1FAIpQLSemsVuL4JLDLlEbPo9qxyerwJqWJXeLQNHxQBvxZOq7-JMD1g/viewform). If you want to share a tool or practice you have, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSHq5-yjzp57AnJPohsL_01uLTO3T-x41g6TDy6xF5inSMBQ/viewform).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katierawson/dhatasa17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions? Please email katie.rawson at gmail.com.
